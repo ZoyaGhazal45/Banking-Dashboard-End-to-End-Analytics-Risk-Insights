@@ -136,3 +136,5 @@ Refresh connection to banking.db
 🔐 Loan approval decision analysis
 
 # Screenshots:
+
+![ALT text](images/Home.png)
