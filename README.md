@@ -141,6 +141,6 @@ Refresh connection to banking.db
 
 ![ALT text](images/Loan.png)
 
-![ALT text](images/Deposite.png.png)
+![ALT text](images/Deposite.png)
 
 ![ALT text](images/Summary.png)
