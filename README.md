@@ -138,3 +138,6 @@ Refresh connection to banking.db
 # Screenshots:
 
 ![ALT text](images/Home.png)
+![ALT text](images/Loan Analysis.png)
+![ALT text](images/Deposit Analysis.png)
+![ALT text](images/Summary.png)
